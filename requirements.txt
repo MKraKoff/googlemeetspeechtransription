@@ -1,0 +1,6 @@
+openai-whisper
+numpy
+pyaudio
+pyautogui
+google-cloud-speech
+google-auth
